@@ -1,1 +1,11 @@
-# notes
+# Number row charaters 
+## ! @ # $ % ^ & * ( )
+!
+@
+\#
+%
+^
+&
+*
+(
+)
