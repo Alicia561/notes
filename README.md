@@ -59,6 +59,7 @@ https://pages.github.com/themes/ https://pages-themes.github.io/architect/
 # links
 - {instagram] (https://www.instagram.com/_.xoxo.alii/?hl=en)
 - [Facebook] (https://www.facebook.com/lisaaa.babyy)
+- [CLI commands](docs/cli.md) 
 # Experiments
 - :heart_eyes:
 - :kissing_smiling_eyes:
